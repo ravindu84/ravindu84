@@ -1,17 +1,26 @@
 # Hi there! I'm Ravindu 👋 🇱🇰
-
-I'm a passionate Tech Enthusiast and Developer working at **Sri Lanka Telecom (SLT)**. 
-I specialize in building innovative solutions, automating systems, and exploring the future of Web3 and AI.
+Experienced **Telecom Professional**, **Full-Stack Developer**, and a versatile **Market Trader**. 
+I bridge the gap between telecommunications infrastructure and modern software solutions, while actively navigating global financial markets.
 
 ---
 
 ### 🚀 About Me / මම ගැන කෙටියෙන්
-* 🏢 **Workplace:** Working at **SLT OPMC Homagama**.
-* 👥 **Team:** Proud member of **NEXGEN CREATORS**.
-* 🛠️ **Current Projects:** * Developing a **Mobile Translator App** for Sri Lankan three-wheel drivers.
-    * Building the **SLT LegalEdge** Integrated Management System.
-    * Integrating an **AI Voice Agent** with the 3CX phone system for automated support.
+* 🏢 **Role:** Experienced Technician at **Sri Lanka Telecom (Homagama OPMC)**.
+* 📡 **Expertise:** Skilled in **3G, 4G, and Android** technologies.
+* 👥 **Team:** Proud member of **MEXGEN HOLDINGS**.
+* 🛠️ **Current Projects:**
+    * 📱 Developing a **Mobile Translator App** for Sri Lankan three-wheel drivers.
+    * ⚖️ Building the **SLT LegalEdge** Integrated Management System.
+    * 🤖 Automating calls with an **AI Voice Agent** for 3CX Phone Systems.
 
+---
+
+### 📈 Trading Portfolio / මම කරන ආයෝජන
+I am an active trader and investor in multiple financial markets:
+* 📉 **Forex & Commodities:** Gold, Oil, and major currency pairs.
+* 🪙 **Crypto:** Exploring the world of Decentralized Finance (DeFi) and Blockchain.
+* 📊 **Global Stocks:** Investing in international equities.
+* 🇱🇰 **CSE (Colombo Stock Exchange):** Proud investor in the Sri Lankan stock market.
 ---
 
 ### 🛠️ My Tech Stack / මම වැඩ කරන තාක්ෂණයන්
