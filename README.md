@@ -64,7 +64,7 @@ I am an active trader and investor in multiple financial markets:
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
   <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" />
 </p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravindu84&layout=compact&theme=radical)
 ---
 
 ### 📊 GitHub Stats
