@@ -80,3 +80,4 @@ I love creating music and exploring AI's potential in artistic expression. 🎹
 
 ### 📫 Connect with me
 අලුත් Project එකක් ගැන හරි Tech ගැන හරි කතා කරන්න ඕනේ නම් මට මෙහෙන් පණිවිඩයක් එවන්න!
+![Snake animation](https://raw.githubusercontent.com/ravindu84/ravindu84/output/github-contribution-grid-snake.svg)
